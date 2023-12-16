@@ -1,0 +1,6 @@
+django==4.2.8
+django-htmx==1.17.2
+django-tailwind==3.6.0
+django-components==0.30
+django-browser-reload==1.12.1
+django-widget-tweaks==1.5.0
